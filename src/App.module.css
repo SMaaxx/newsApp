@@ -1,0 +1,26 @@
+.container {
+  height: 100vh;
+  background-image: linear-gradient(to left, #81cce5, #00b8d4, #81cce5);
+  width: 100%;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 30px;
+  height: 67px;
+  margin: 0 auto;
+}
+
+.button {
+  padding: 20px;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: 500;
+  color: #18467D;
+}
+
+.button:hover {
+  color: #123063;
+}

@@ -1,0 +1,11 @@
+.container {
+    position: fixed;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+
+    cursor: default;
+    font-size: 42px;
+    font-weight: bold;
+    color: #18467D;
+}
